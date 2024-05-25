@@ -46,4 +46,4 @@ You can configure everything in the config.lua such as enabling/disabling the co
 
 -Check coins notify
 
-![|183x42.6797](https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1250077/2e27cd948ea1a0ccc5d039ce27784be9db2b80ed.png)                                         |                                |
+![|183x42.6797](https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1250077/2e27cd948ea1a0ccc5d039ce27784be9db2b80ed.png)
