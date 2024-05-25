@@ -2,16 +2,18 @@
 
 EDG Event Shop [QB]
 
-Dependencies:
-QBCore
-oxmysql
+Dependencies: QBCore, oxmysql
 
-Buy: [https://eden-garden-shop.tebex.io/package/6281318](https://eden-garden-shop.tebex.io/package/6281318)
+:heavy_dollar_sign:Buy: https://eden-garden-shop.tebex.io/package/6281318 1
+
+:spiral_notepad: Introduction:
 
 Ever wanted to reward your players joining events or other activities but dont know what to give them ?
-Let them choose by thereself by setting up a Event Shop or customize it to you'r own idea.
+Let them choose by thereself by setting up a Event Shop or customize it to you’r own idea.
 
-With this script you are able to reward players with "Event Coins" or whatever you set up in the config.
+With this script you are able to reward players with “Event Coins” or whatever you set up in the config.
+
+:feather: Features:
 
 Simply use /addeventcoins [playerid] [amount]
 to give a player the coins they can spend.
@@ -24,7 +26,7 @@ Players can check how much eventcoins they have with the command /eventcoins or 
 You can either set up locations with Ped/Marker/Blip/Drawtext or enable to use the /eventshop command.
 You can configure everything in the config.lua such as enabling/disabling the command or ped/marker/blip/drawtext.
 
-Showcase:
+:camera: Showcase:
 
 -Shop Menu with mouseover tooltip
 
