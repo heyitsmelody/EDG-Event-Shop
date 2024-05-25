@@ -25,17 +25,23 @@ You can either set up locations with Ped/Marker/Blip/Drawtext or enable to use t
 You can configure everything in the config.lua such as enabling/disabling the command or ped/marker/blip/drawtext.
 
 Showcase:
+
 -Shop Menu with mouseover tooltip
+
 ![|535x400.834](https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1250077/c80f16bbf6914dd3aa32031fcf889f6ed47966a1.png)
 
 -Confirming a purchase
+
 ![|427x203.703](https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1250077/05ef7518b283e07085d9322afa490090dcc5af55.png)
 
 -Buy notify
+
 ![|300x46](https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1250077/39ffa0ded02fdc3904cc8535c178572d76d62242.png)
 
 -Give coins notify with players ingame name
+
 ![|300x47.5667](https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1250077/9561ad91765b926f74d597e0d119a4a2abdf9c58.png)
 
 -Check coins notify
+
 ![|183x42.6797](https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1250077/2e27cd948ea1a0ccc5d039ce27784be9db2b80ed.png)                                         |                                |
